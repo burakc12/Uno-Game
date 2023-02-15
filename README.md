@@ -1,2 +1,4 @@
 # Uno-Kart-Oyunu
-Bu uygulama .net framework kullanılarak yazılmıştır.
+Bu uygulamada .net framework kullanılmıştır.
+
+.net framework is used in this project
