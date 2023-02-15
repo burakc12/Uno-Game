@@ -1,0 +1,7 @@
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077\kart oyunu\kart oyunu\bin\Debug\kart oyunu.exe.config
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077\kart oyunu\kart oyunu\bin\Debug\kart oyunu.exe
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077\kart oyunu\kart oyunu\bin\Debug\kart oyunu.pdb
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077\kart oyunu\kart oyunu\obj\Debug\kart oyunu.csprojAssemblyReference.cache
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077\kart oyunu\kart oyunu\obj\Debug\kart oyunu.csproj.CoreCompileInputs.cache
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077\kart oyunu\kart oyunu\obj\Debug\kart oyunu.exe
+C:\Users\BURAK\Desktop\ödev\BZ102_1030510077\kart oyunu\kart oyunu\obj\Debug\kart oyunu.pdb
